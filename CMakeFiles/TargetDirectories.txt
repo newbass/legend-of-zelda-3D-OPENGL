@@ -1,0 +1,3 @@
+/home/aanshul/Documents/Semester4/Graphics/3D/Assignment2/CMakeFiles/edit_cache.dir
+/home/aanshul/Documents/Semester4/Graphics/3D/Assignment2/CMakeFiles/rebuild_cache.dir
+/home/aanshul/Documents/Semester4/Graphics/3D/Assignment2/CMakeFiles/graphics_asgn1.dir
